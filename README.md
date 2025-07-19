@@ -43,8 +43,8 @@ from ignorant.modules.shopping.amazon import amazon
 
 
 async def main():
-    phone="644637111"
-    country_code="33"
+    phone="53788960"
+    country_code="48"
     client = httpx.AsyncClient()
     out = []
 
