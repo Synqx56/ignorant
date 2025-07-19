@@ -27,7 +27,7 @@ python3 setup.py install
 ## 📚 Example
 
 ```bash
-ignorant 33 644637111
+ignorant 48 537788960
 ```
 
 
